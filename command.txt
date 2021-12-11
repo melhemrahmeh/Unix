@@ -1,0 +1,6 @@
+mkdir Folder1
+mkdir Folder2
+cd Folder1
+createfile File1.java
+createfile File2.java
+quota
