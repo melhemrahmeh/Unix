@@ -97,6 +97,6 @@ public class Unix {
             }
         }
         tree.printSideways();
-        System.out.println("\n\nQuota: "+quota(tree.inorder()));
+        System.out.println("\n\nQuota: "+quota(tree.inorder()) + " Bytes");
     }
 }
